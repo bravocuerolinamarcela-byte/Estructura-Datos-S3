@@ -15,4 +15,3 @@ int main(){
     apuntador = &array[10];
     cout<<"Apuntador tiene un valor de: "<<apuntador<<endl;
     return 0;
-}
